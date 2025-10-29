@@ -2,6 +2,9 @@
 
 This repository contains a machine learning project focused on sentiment analysis of the large-scale Amazon Reviews dataset. The primary goal is to preprocess millions of text reviews and build classification models to accurately determine whether a review is positive or negative. This project demonstrates a complete NLP pipeline, from raw text cleaning to model evaluation, achieving approximately 88% accuracy.
 
+![sentiment analysis](https://www.revuze.it/blog/wp-content/uploads/sites/2/2020/03/Amazon-Review-Analysis.png)
+
+
 ## Project Overview
 
 The project follows a structured approach to tackle the sentiment analysis problem:
